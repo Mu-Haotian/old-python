@@ -1,0 +1,31 @@
+2022-12-09 20:17:09,125 - log - ERROR - Character_Error:Use invalid characters
+2022-12-09 20:19:08,249 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:40:35,487 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:40:35,487 - log - INFO - info:Start running!
+2022-12-09 20:40:39,101 - log - ERROR - Character_Error:Use invalid characters
+2022-12-09 20:41:08,317 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:41:08,318 - log - INFO - info:Start running!
+2022-12-09 20:41:28,954 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:41:28,955 - log - INFO - info:Start running!
+2022-12-09 20:46:49,590 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:46:49,590 - log - INFO - info:Start running!
+2022-12-09 20:47:24,372 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:47:24,373 - log - INFO - info:Start running!
+2022-12-09 20:47:37,897 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:47:37,898 - log - INFO - info:Start running!
+2022-12-09 20:47:56,822 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:47:56,823 - log - INFO - info:Start running!
+2022-12-09 20:48:03,595 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:48:03,595 - log - INFO - info:Start running!
+2022-12-09 20:48:50,412 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:48:50,412 - log - INFO - info:Start running!
+2022-12-09 20:48:57,996 - log - ERROR - Format_error:The path must contain a drive letter at the beginning
+2022-12-09 20:49:46,517 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:49:46,518 - log - INFO - info:Start running!
+2022-12-09 20:49:49,074 - log - ERROR - Format_error:The path must contain a drive letter at the beginning
+2022-12-09 20:50:28,085 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:50:28,085 - log - INFO - info:Start running!
+2022-12-09 20:50:29,938 - log - ERROR - Format_error:The path must contain a drive letter at the beginning
+2022-12-09 20:50:40,574 - log - DEBUG - debug:Run successfully!
+2022-12-09 20:50:40,575 - log - INFO - info:Start running!
+2022-12-09 20:50:41,964 - log - ERROR - Format_error:The path must contain a drive letter at the beginning

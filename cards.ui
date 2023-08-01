@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>cards</class>
+ <widget class="QMainWindow" name="cards">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>710</width>
+    <height>450</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>记忆翻牌</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLCDNumber" name="lcdNumber">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>0</y>
+      <width>131</width>
+      <height>61</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>90</y>
+      <width>711</width>
+      <height>361</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="pbth01">
+       <property name="text">
+        <string>pbth01</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="pbth02">
+       <property name="text">
+        <string>pbth02</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="pbth03">
+       <property name="text">
+        <string>pbth03</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="pbth04">
+       <property name="text">
+        <string>pbth04</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPushButton" name="pbth05">
+       <property name="text">
+        <string>pbth05</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QPushButton" name="pbth06">
+       <property name="text">
+        <string>pbth06</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QPushButton" name="pbth07">
+       <property name="text">
+        <string>pbth07</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="3">
+      <widget class="QPushButton" name="pbth08">
+       <property name="text">
+        <string>pbth08</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="pbth09">
+       <property name="text">
+        <string>pbth09</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QPushButton" name="pbth10">
+       <property name="text">
+        <string>pbth10</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QPushButton" name="pbth11">
+       <property name="text">
+        <string>pbth11</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="2" column="3">
+      <widget class="QPushButton" name="pbth12">
+       <property name="text">
+        <string>pbth12</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">push_img</string>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="push_img"/>
+ </buttongroups>
+</ui>
